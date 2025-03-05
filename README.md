@@ -38,10 +38,6 @@ Clona este repositorio.
 
 Abre el archivo index.html en cualquier navegador moderno.
 
-Autor
+Autor: Ivan Rodriguez - Desarrollado por un programador en aprendizaje.
 
-Desarrollado por un programador en aprendizaje.
-
-Contacto
-
-Si tienes preguntas o sugerencias, no dudes en contactarme.
+Contacto: Si tienes preguntas o sugerencias, no dudes en contactarme.
